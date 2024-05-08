@@ -3,7 +3,7 @@ package org.example.finartzuserdemo.model.entitiy;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "finartz", schema = "finartz")
+@Table(name = "user", schema = "finartz")
 
 public class User {
 
